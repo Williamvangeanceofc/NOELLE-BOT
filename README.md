@@ -56,6 +56,6 @@ COMANDO PARA INSTALAR A PASTA DO BOT, APÓS TODAS AS ETAPAS ANTERIORES OU CASO N
 
 ___-_-_-_-_-
 
-cd /sdcard && rm -rf aleatory-md && git clone https://github.com/Williamvangeanceofc/NOELLE-BOT.git && cd noelle2.0 && sh start.sh
+cd /sdcard && rm -rf NOELLE-BOT && git clone https://github.com/Williamvangeanceofc/NOELLE-BOT.git && cd noelle2.0 && sh start.sh
 
 _- BASTA COPIAR O COMANDO INTEIRO E COLAR LÁ, NÃO É NECESSÁRIO COPIAR APENAS METADE OU UMA PARTE, É O COMANDO COMPLETO.
