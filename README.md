@@ -1,14 +1,15 @@
-# Aleatory MD - BOT DE WHATSAPP
+# NOELLE BOT MD - BOT DE WHATSAPP
 <div align="center">
-<img src="https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg" alt="Aleatory MD - BOT" width="300" />
+<img src="https://telegra.ph/file/90b8fbcd95b8cccd0a945.jpg" alt="NOELLE BOT V2 MD " width="300" />
 </div>
 <p align="center">
-  <a href="https://github.com/NuevaGeneracionALB/aleatory-md.git"><img title="Autor" src="https://img.shields.io/badge/Autor-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Williamvangeanceofc/NOELLE-BOT.git
+"><img title="Autor" src="https://img.shields.io/badge/Autor-Vangeance-green.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   
 Precisa de ajuda? Entre em nosso chat: 
 
-https://chat.whatsapp.com/FT9Szs4fMom7nS2qFNMmye
+https://chat.whatsapp.com/JBCsl0gIfAZAEyibmYzD0D
 
 SÓ SERÁ NECESSÁRIO EXECUTAR OS COMANDOS BÁSICOS DO TERMUX SE APÓS A INSTALAÇÃO DELE, NÃO FOREM DADOS ESSES COMANDOS LISTADOS.
 
@@ -55,6 +56,6 @@ COMANDO PARA INSTALAR A PASTA DO BOT, APÓS TODAS AS ETAPAS ANTERIORES OU CASO N
 
 ___-_-_-_-_-
 
-cd /sdcard && rm -rf aleatory-md && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && cd aleatory-md && sh start.sh
+cd /sdcard && rm -rf aleatory-md && git clone https://github.com/Williamvangeanceofc/NOELLE-BOT.git && cd noelle2.0 && sh start.sh
 
 _- BASTA COPIAR O COMANDO INTEIRO E COLAR LÁ, NÃO É NECESSÁRIO COPIAR APENAS METADE OU UMA PARTE, É O COMANDO COMPLETO.
